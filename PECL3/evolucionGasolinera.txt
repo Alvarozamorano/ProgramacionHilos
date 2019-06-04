@@ -1,0 +1,1206 @@
+-- REGISTRO ACCIONES GASOLINERA --
+
+12:22:20 -- El Coche 1  tarda en llegar a la gasolinera 1 segundos
+12:22:21 -- El Coche 2  tarda en llegar a la gasolinera 2 segundos
+12:22:22 -- Llega Coche 1  a la gasolinera
+12:22:22 -- Entra Coche 1  surtidor 1
+12:22:22 -- El Operario 2 reposta al Coche 1  en el surtidor 1, tarda en repostar 4 segundos
+12:22:22 -- El Coche 3  tarda en llegar a la gasolinera 3 segundos
+12:22:23 -- El Coche 4  tarda en llegar a la gasolinera 3 segundos
+12:22:23 -- Llega Coche 2  a la gasolinera
+12:22:23 -- Entra Coche 2  surtidor 2
+12:22:23 -- El Operario 1 reposta al Coche 2  en el surtidor 2, tarda en repostar 7 segundos
+12:22:24 -- El Coche 5  tarda en llegar a la gasolinera 3 segundos
+12:22:25 -- El Coche 6  tarda en llegar a la gasolinera 4 segundos
+12:22:26 -- Llega Coche 3  a la gasolinera
+12:22:26 -- Entra Coche 3  surtidor 3
+12:22:26 -- El Operario 3 reposta al Coche 3  en el surtidor 3, tarda en repostar 7 segundos
+12:22:26 -- El Coche 7  tarda en llegar a la gasolinera 2 segundos
+12:22:26 -- Llega Coche 4  a la gasolinera
+12:22:26 -- Entra Coche 4  surtidor 4
+12:22:27 -- Sale Coche 1  surtidor 1
+12:22:27 -- Se va el Coche 1  de la gasolinera
+12:22:27 -- El Operario 2 reposta al Coche 4  en el surtidor 4, tarda en repostar 6 segundos
+12:22:27 -- El Coche 8  tarda en llegar a la gasolinera 0 segundos
+12:22:28 -- Llega Coche 5  a la gasolinera
+12:22:28 -- Entra Coche 5  surtidor 1
+12:22:28 -- Llega Coche 8  a la gasolinera
+12:22:28 -- Entra Coche 8  surtidor 5
+12:22:28 -- El Coche 9  tarda en llegar a la gasolinera 1 segundos
+12:22:28 -- Llega Coche 7  a la gasolinera
+12:22:28 -- Entra Coche 7  surtidor 6
+12:22:29 -- El Coche 10  tarda en llegar a la gasolinera 3 segundos
+12:22:29 -- Llega Coche 6  a la gasolinera
+12:22:29 -- Entra Coche 6  surtidor 7
+12:22:30 -- Llega Coche 9  a la gasolinera
+12:22:30 -- Entra Coche 9  surtidor 8
+12:22:30 -- El Coche 11  tarda en llegar a la gasolinera 0 segundos
+12:22:31 -- Sale Coche 2  surtidor 2
+12:22:31 -- Se va el Coche 2  de la gasolinera
+12:22:31 -- El Operario 1 reposta al Coche 5  en el surtidor 1, tarda en repostar 6 segundos
+12:22:31 -- Llega Coche 11  a la gasolinera
+12:22:31 -- Entra Coche 11  surtidor 2
+12:22:31 -- El Coche 12  tarda en llegar a la gasolinera 4 segundos
+12:22:32 -- El Coche 13  tarda en llegar a la gasolinera 2 segundos
+12:22:33 -- Llega Coche 10  a la gasolinera
+12:22:33 -- Sale Coche 4  surtidor 4
+12:22:33 -- Se va el Coche 4  de la gasolinera
+12:22:33 -- Entra Coche 10  surtidor 4
+12:22:33 -- El Operario 2 reposta al Coche 8  en el surtidor 5, tarda en repostar 5 segundos
+12:22:33 -- Sale Coche 3  surtidor 3
+12:22:33 -- Se va el Coche 3  de la gasolinera
+12:22:33 -- El Operario 3 reposta al Coche 7  en el surtidor 6, tarda en repostar 4 segundos
+12:22:33 -- El Coche 14  tarda en llegar a la gasolinera 2 segundos
+12:22:34 -- El Coche 15  tarda en llegar a la gasolinera 5 segundos
+12:22:35 -- Llega Coche 13  a la gasolinera
+12:22:35 -- Entra Coche 13  surtidor 3
+12:22:35 -- El Coche 16  tarda en llegar a la gasolinera 1 segundos
+12:22:36 -- Llega Coche 14  a la gasolinera
+12:22:36 -- Llega Coche 12  a la gasolinera
+12:22:36 -- El Coche 17  tarda en llegar a la gasolinera 1 segundos
+12:22:37 -- Llega Coche 16  a la gasolinera
+12:22:37 -- Sale Coche 5  surtidor 1
+12:22:37 -- Se va el Coche 5  de la gasolinera
+12:22:37 -- Entra Coche 14  surtidor 1
+12:22:37 -- El Operario 1 reposta al Coche 6  en el surtidor 7, tarda en repostar 4 segundos
+12:22:37 -- El Coche 18  tarda en llegar a la gasolinera 1 segundos
+12:22:38 -- Sale Coche 7  surtidor 6
+12:22:38 -- Se va el Coche 7  de la gasolinera
+12:22:38 -- Entra Coche 12  surtidor 6
+12:22:38 -- El Operario 3 reposta al Coche 9  en el surtidor 8, tarda en repostar 7 segundos
+12:22:38 -- Llega Coche 17  a la gasolinera
+12:22:38 -- El Coche 19  tarda en llegar a la gasolinera 3 segundos
+12:22:38 -- Sale Coche 8  surtidor 5
+12:22:38 -- Se va el Coche 8  de la gasolinera
+12:22:38 -- Entra Coche 16  surtidor 5
+12:22:38 -- El Operario 2 reposta al Coche 11  en el surtidor 2, tarda en repostar 4 segundos
+12:22:39 -- Llega Coche 18  a la gasolinera
+12:22:39 -- El Coche 20  tarda en llegar a la gasolinera 1 segundos
+12:22:39 -- Llega Coche 15  a la gasolinera
+12:22:40 -- El Coche 21  tarda en llegar a la gasolinera 1 segundos
+12:22:40 -- Llega Coche 20  a la gasolinera
+12:22:41 -- El Coche 22  tarda en llegar a la gasolinera 2 segundos
+12:22:41 -- Llega Coche 21  a la gasolinera
+12:22:42 -- Llega Coche 19  a la gasolinera
+12:22:42 -- Sale Coche 6  surtidor 7
+12:22:42 -- Se va el Coche 6  de la gasolinera
+12:22:42 -- Entra Coche 17  surtidor 7
+12:22:42 -- El Operario 1 reposta al Coche 10  en el surtidor 4, tarda en repostar 5 segundos
+12:22:42 -- El Coche 23  tarda en llegar a la gasolinera 5 segundos
+12:22:43 -- Sale Coche 11  surtidor 2
+12:22:43 -- Se va el Coche 11  de la gasolinera
+12:22:43 -- Entra Coche 18  surtidor 2
+12:22:43 -- El Operario 2 reposta al Coche 13  en el surtidor 3, tarda en repostar 5 segundos
+12:22:43 -- El Coche 24  tarda en llegar a la gasolinera 5 segundos
+12:22:44 -- Llega Coche 22  a la gasolinera
+12:22:44 -- El Coche 25  tarda en llegar a la gasolinera 1 segundos
+12:22:45 -- Sale Coche 9  surtidor 8
+12:22:45 -- Se va el Coche 9  de la gasolinera
+12:22:45 -- Entra Coche 15  surtidor 8
+12:22:45 -- El Operario 3 reposta al Coche 14  en el surtidor 1, tarda en repostar 6 segundos
+12:22:45 -- El Coche 26  tarda en llegar a la gasolinera 1 segundos
+12:22:45 -- Llega Coche 25  a la gasolinera
+12:22:46 -- El Coche 27  tarda en llegar a la gasolinera 4 segundos
+12:22:46 -- Llega Coche 26  a la gasolinera
+12:22:47 -- Sale Coche 10  surtidor 4
+12:22:47 -- Se va el Coche 10  de la gasolinera
+12:22:47 -- Entra Coche 20  surtidor 4
+12:22:47 -- El Operario 1 reposta al Coche 12  en el surtidor 6, tarda en repostar 7 segundos
+12:22:47 -- El Coche 28  tarda en llegar a la gasolinera 4 segundos
+12:22:48 -- Llega Coche 23  a la gasolinera
+12:22:48 -- Sale Coche 13  surtidor 3
+12:22:48 -- Se va el Coche 13  de la gasolinera
+12:22:48 -- Entra Coche 21  surtidor 3
+12:22:48 -- El Operario 2 reposta al Coche 16  en el surtidor 5, tarda en repostar 7 segundos
+12:22:48 -- El Coche 29  tarda en llegar a la gasolinera 1 segundos
+12:22:49 -- Llega Coche 24  a la gasolinera
+12:22:49 -- El Coche 30  tarda en llegar a la gasolinera 5 segundos
+12:22:50 -- Llega Coche 29  a la gasolinera
+12:22:50 -- El Coche 31  tarda en llegar a la gasolinera 0 segundos
+12:22:51 -- Llega Coche 31  a la gasolinera
+12:22:51 -- Llega Coche 27  a la gasolinera
+12:22:51 -- Sale Coche 14  surtidor 1
+12:22:51 -- Se va el Coche 14  de la gasolinera
+12:22:51 -- Entra Coche 19  surtidor 1
+12:22:51 -- El Operario 3 reposta al Coche 17  en el surtidor 7, tarda en repostar 7 segundos
+12:22:51 -- El Coche 32  tarda en llegar a la gasolinera 5 segundos
+12:22:52 -- Llega Coche 28  a la gasolinera
+12:22:52 -- El Coche 33  tarda en llegar a la gasolinera 4 segundos
+12:22:53 -- El Coche 34  tarda en llegar a la gasolinera 0 segundos
+12:22:54 -- Llega Coche 34  a la gasolinera
+12:22:54 -- El Coche 35  tarda en llegar a la gasolinera 1 segundos
+12:22:54 -- Llega Coche 30  a la gasolinera
+12:22:55 -- Sale Coche 12  surtidor 6
+12:22:55 -- Se va el Coche 12  de la gasolinera
+12:22:55 -- Entra Coche 22  surtidor 6
+12:22:55 -- El Operario 1 reposta al Coche 18  en el surtidor 2, tarda en repostar 7 segundos
+12:22:55 -- El Coche 36  tarda en llegar a la gasolinera 1 segundos
+12:22:55 -- Sale Coche 16  surtidor 5
+12:22:55 -- Se va el Coche 16  de la gasolinera
+12:22:55 -- Entra Coche 25  surtidor 5
+12:22:55 -- El Operario 2 reposta al Coche 15  en el surtidor 8, tarda en repostar 7 segundos
+12:22:55 -- Llega Coche 35  a la gasolinera
+12:22:56 -- El Coche 37  tarda en llegar a la gasolinera 2 segundos
+12:22:57 -- Llega Coche 33  a la gasolinera
+12:22:57 -- Llega Coche 36  a la gasolinera
+12:22:57 -- Llega Coche 32  a la gasolinera
+12:22:57 -- El Coche 38  tarda en llegar a la gasolinera 4 segundos
+12:22:58 -- El Coche 39  tarda en llegar a la gasolinera 5 segundos
+12:22:59 -- Sale Coche 17  surtidor 7
+12:22:59 -- Llega Coche 37  a la gasolinera
+12:22:59 -- Se va el Coche 17  de la gasolinera
+12:22:59 -- Entra Coche 26  surtidor 7
+12:22:59 -- El Operario 3 reposta al Coche 20  en el surtidor 4, tarda en repostar 5 segundos
+12:22:59 -- El Coche 40  tarda en llegar a la gasolinera 5 segundos
+12:23:0 -- El Coche 41  tarda en llegar a la gasolinera 5 segundos
+12:23:1 -- El Coche 42  tarda en llegar a la gasolinera 1 segundos
+12:23:2 -- Llega Coche 38  a la gasolinera
+12:23:2 -- El Coche 43  tarda en llegar a la gasolinera 0 segundos
+12:23:3 -- Llega Coche 42  a la gasolinera
+12:23:3 -- Sale Coche 18  surtidor 2
+12:23:3 -- Se va el Coche 18  de la gasolinera
+12:23:3 -- El Operario 1 reposta al Coche 21  en el surtidor 3, tarda en repostar 4 segundos
+12:23:3 -- Entra Coche 23  surtidor 2
+12:23:3 -- Sale Coche 15  surtidor 8
+12:23:3 -- Se va el Coche 15  de la gasolinera
+12:23:3 -- Entra Coche 24  surtidor 8
+12:23:3 -- El Operario 2 reposta al Coche 19  en el surtidor 1, tarda en repostar 6 segundos
+12:23:3 -- Llega Coche 43  a la gasolinera
+12:23:3 -- El Coche 44  tarda en llegar a la gasolinera 1 segundos
+12:23:3 -- Llega Coche 39  a la gasolinera
+12:23:4 -- El Coche 45  tarda en llegar a la gasolinera 1 segundos
+12:23:4 -- Sale Coche 20  surtidor 4
+12:23:4 -- Se va el Coche 20  de la gasolinera
+12:23:4 -- Entra Coche 29  surtidor 4
+12:23:4 -- El Operario 3 reposta al Coche 22  en el surtidor 6, tarda en repostar 7 segundos
+12:23:5 -- Llega Coche 40  a la gasolinera
+12:23:5 -- Llega Coche 44  a la gasolinera
+12:23:5 -- El Coche 46  tarda en llegar a la gasolinera 2 segundos
+12:23:5 -- Llega Coche 45  a la gasolinera
+12:23:5 -- Llega Coche 41  a la gasolinera
+12:23:6 -- El Coche 47  tarda en llegar a la gasolinera 5 segundos
+12:23:7 -- Sale Coche 21  surtidor 3
+12:23:7 -- Se va el Coche 21  de la gasolinera
+12:23:7 -- Entra Coche 31  surtidor 3
+12:23:7 -- El Operario 1 reposta al Coche 25  en el surtidor 5, tarda en repostar 4 segundos
+12:23:7 -- El Coche 48  tarda en llegar a la gasolinera 0 segundos
+12:23:8 -- Llega Coche 46  a la gasolinera
+12:23:8 -- Llega Coche 48  a la gasolinera
+12:23:8 -- El Coche 49  tarda en llegar a la gasolinera 3 segundos
+12:23:9 -- Sale Coche 19  surtidor 1
+12:23:9 -- Se va el Coche 19  de la gasolinera
+12:23:9 -- Entra Coche 27  surtidor 1
+12:23:9 -- El Operario 2 reposta al Coche 26  en el surtidor 7, tarda en repostar 4 segundos
+12:23:9 -- El Coche 50  tarda en llegar a la gasolinera 1 segundos
+12:23:10 -- El Coche 51  tarda en llegar a la gasolinera 5 segundos
+12:23:11 -- Sale Coche 25  surtidor 5
+12:23:11 -- Se va el Coche 25  de la gasolinera
+12:23:11 -- Entra Coche 28  surtidor 5
+12:23:11 -- El Operario 1 reposta al Coche 23  en el surtidor 2, tarda en repostar 5 segundos
+12:23:11 -- Llega Coche 50  a la gasolinera
+12:23:11 -- El Coche 52  tarda en llegar a la gasolinera 3 segundos
+12:23:12 -- Llega Coche 49  a la gasolinera
+12:23:12 -- Llega Coche 47  a la gasolinera
+12:23:12 -- Sale Coche 22  surtidor 6
+12:23:12 -- Se va el Coche 22  de la gasolinera
+12:23:12 -- Entra Coche 34  surtidor 6
+12:23:12 -- El Operario 3 reposta al Coche 24  en el surtidor 8, tarda en repostar 4 segundos
+12:23:12 -- El Coche 53  tarda en llegar a la gasolinera 3 segundos
+12:23:13 -- El Coche 54  tarda en llegar a la gasolinera 5 segundos
+12:23:13 -- Sale Coche 26  surtidor 7
+12:23:13 -- Se va el Coche 26  de la gasolinera
+12:23:13 -- Entra Coche 30  surtidor 7
+12:23:13 -- El Operario 2 reposta al Coche 29  en el surtidor 4, tarda en repostar 7 segundos
+12:23:14 -- El Coche 55  tarda en llegar a la gasolinera 2 segundos
+12:23:14 -- Llega Coche 52  a la gasolinera
+12:23:15 -- El Coche 56  tarda en llegar a la gasolinera 2 segundos
+12:23:15 -- Llega Coche 53  a la gasolinera
+12:23:16 -- Llega Coche 51  a la gasolinera
+12:23:16 -- El Coche 57  tarda en llegar a la gasolinera 5 segundos
+12:23:17 -- Sale Coche 23  surtidor 2
+12:23:17 -- Se va el Coche 23  de la gasolinera
+12:23:17 -- El Operario 1 reposta al Coche 31  en el surtidor 3, tarda en repostar 6 segundos
+12:23:17 -- Entra Coche 35  surtidor 2
+12:23:17 -- Llega Coche 55  a la gasolinera
+12:23:17 -- Sale Coche 24  surtidor 8
+12:23:17 -- Se va el Coche 24  de la gasolinera
+12:23:17 -- El Operario 3 reposta al Coche 27  en el surtidor 1, tarda en repostar 6 segundos
+12:23:17 -- Entra Coche 33  surtidor 8
+12:23:17 -- El Coche 58  tarda en llegar a la gasolinera 1 segundos
+12:23:18 -- Llega Coche 56  a la gasolinera
+12:23:18 -- El Coche 59  tarda en llegar a la gasolinera 2 segundos
+12:23:19 -- Llega Coche 58  a la gasolinera
+12:23:19 -- Llega Coche 54  a la gasolinera
+12:23:19 -- El Coche 60  tarda en llegar a la gasolinera 5 segundos
+12:23:20 -- El Coche 61  tarda en llegar a la gasolinera 3 segundos
+12:23:21 -- Llega Coche 59  a la gasolinera
+12:23:21 -- Sale Coche 29  surtidor 4
+12:23:21 -- Se va el Coche 29  de la gasolinera
+12:23:21 -- Entra Coche 36  surtidor 4
+12:23:21 -- El Operario 2 reposta al Coche 28  en el surtidor 5, tarda en repostar 6 segundos
+12:23:21 -- El Coche 62  tarda en llegar a la gasolinera 3 segundos
+12:23:22 -- Llega Coche 57  a la gasolinera
+12:23:22 -- El Coche 63  tarda en llegar a la gasolinera 3 segundos
+12:23:23 -- El Coche 64  tarda en llegar a la gasolinera 3 segundos
+12:23:23 -- Sale Coche 31  surtidor 3
+12:23:23 -- Se va el Coche 31  de la gasolinera
+12:23:23 -- El Operario 1 reposta al Coche 34  en el surtidor 6, tarda en repostar 6 segundos
+12:23:23 -- Entra Coche 32  surtidor 3
+12:23:24 -- Sale Coche 27  surtidor 1
+12:23:24 -- Se va el Coche 27  de la gasolinera
+12:23:24 -- Entra Coche 37  surtidor 1
+12:23:24 -- El Operario 3 reposta al Coche 30  en el surtidor 7, tarda en repostar 6 segundos
+12:23:24 -- Llega Coche 61  a la gasolinera
+12:23:24 -- El Coche 65  tarda en llegar a la gasolinera 3 segundos
+12:23:25 -- Llega Coche 62  a la gasolinera
+12:23:25 -- Llega Coche 60  a la gasolinera
+12:23:25 -- El Coche 66  tarda en llegar a la gasolinera 4 segundos
+12:23:26 -- Llega Coche 63  a la gasolinera
+12:23:26 -- El Coche 67  tarda en llegar a la gasolinera 4 segundos
+12:23:27 -- Llega Coche 64  a la gasolinera
+12:23:27 -- Sale Coche 28  surtidor 5
+12:23:27 -- Se va el Coche 28  de la gasolinera
+12:23:27 -- El Operario 2 reposta al Coche 35  en el surtidor 2, tarda en repostar 6 segundos
+12:23:27 -- El Coche 68  tarda en llegar a la gasolinera 5 segundos
+12:23:27 -- Entra Coche 38  surtidor 5
+12:23:28 -- Llega Coche 65  a la gasolinera
+12:23:28 -- El Coche 69  tarda en llegar a la gasolinera 3 segundos
+12:23:29 -- El Coche 70  tarda en llegar a la gasolinera 3 segundos
+12:23:30 -- Sale Coche 30  surtidor 7
+12:23:30 -- Se va el Coche 30  de la gasolinera
+12:23:30 -- Entra Coche 42  surtidor 7
+12:23:30 -- El Operario 3 reposta al Coche 33  en el surtidor 8, tarda en repostar 6 segundos
+12:23:30 -- Llega Coche 66  a la gasolinera
+12:23:30 -- Sale Coche 34  surtidor 6
+12:23:30 -- Se va el Coche 34  de la gasolinera
+12:23:30 -- El Operario 1 reposta al Coche 36  en el surtidor 4, tarda en repostar 6 segundos
+12:23:30 -- Entra Coche 43  surtidor 6
+12:23:30 -- El Coche 71  tarda en llegar a la gasolinera 4 segundos
+12:23:31 -- Llega Coche 67  a la gasolinera
+12:23:31 -- El Coche 72  tarda en llegar a la gasolinera 5 segundos
+12:23:32 -- Llega Coche 69  a la gasolinera
+12:23:32 -- El Coche 73  tarda en llegar a la gasolinera 4 segundos
+12:23:32 -- Llega Coche 68  a la gasolinera
+12:23:33 -- Llega Coche 70  a la gasolinera
+12:23:33 -- El Coche 74  tarda en llegar a la gasolinera 2 segundos
+12:23:34 -- Sale Coche 35  surtidor 2
+12:23:34 -- Se va el Coche 35  de la gasolinera
+12:23:34 -- Entra Coche 39  surtidor 2
+12:23:34 -- El Operario 2 reposta al Coche 32  en el surtidor 3, tarda en repostar 6 segundos
+12:23:34 -- El Coche 75  tarda en llegar a la gasolinera 2 segundos
+12:23:35 -- Llega Coche 71  a la gasolinera
+12:23:35 -- El Coche 76  tarda en llegar a la gasolinera 2 segundos
+12:23:36 -- Llega Coche 74  a la gasolinera
+12:23:36 -- Sale Coche 33  surtidor 8
+12:23:36 -- Se va el Coche 33  de la gasolinera
+12:23:36 -- Entra Coche 40  surtidor 8
+12:23:36 -- El Operario 3 reposta al Coche 37  en el surtidor 1, tarda en repostar 7 segundos
+12:23:36 -- El Coche 77  tarda en llegar a la gasolinera 3 segundos
+12:23:36 -- Sale Coche 36  surtidor 4
+12:23:36 -- Se va el Coche 36  de la gasolinera
+12:23:36 -- Entra Coche 44  surtidor 4
+12:23:36 -- El Operario 1 reposta al Coche 38  en el surtidor 5, tarda en repostar 4 segundos
+12:23:36 -- Llega Coche 75  a la gasolinera
+12:23:37 -- Llega Coche 73  a la gasolinera
+12:23:37 -- Llega Coche 72  a la gasolinera
+12:23:37 -- El Coche 78  tarda en llegar a la gasolinera 4 segundos
+12:23:38 -- Llega Coche 76  a la gasolinera
+12:23:38 -- El Coche 79  tarda en llegar a la gasolinera 5 segundos
+12:23:39 -- El Coche 80  tarda en llegar a la gasolinera 2 segundos
+12:23:40 -- Llega Coche 77  a la gasolinera
+12:23:40 -- El Coche 81  tarda en llegar a la gasolinera 2 segundos
+12:23:40 -- Sale Coche 38  surtidor 5
+12:23:40 -- Se va el Coche 38  de la gasolinera
+12:23:40 -- Entra Coche 45  surtidor 5
+12:23:40 -- El Operario 1 reposta al Coche 42  en el surtidor 7, tarda en repostar 5 segundos
+12:23:40 -- Sale Coche 32  surtidor 3
+12:23:40 -- Se va el Coche 32  de la gasolinera
+12:23:40 -- Entra Coche 41  surtidor 3
+12:23:40 -- El Operario 2 reposta al Coche 43  en el surtidor 6, tarda en repostar 7 segundos
+12:23:41 -- El Coche 82  tarda en llegar a la gasolinera 2 segundos
+12:23:41 -- Llega Coche 80  a la gasolinera
+12:23:41 -- Llega Coche 78  a la gasolinera
+12:23:42 -- El Coche 83  tarda en llegar a la gasolinera 0 segundos
+12:23:42 -- Llega Coche 81  a la gasolinera
+12:23:43 -- Llega Coche 83  a la gasolinera
+12:23:43 -- El Coche 84  tarda en llegar a la gasolinera 1 segundos
+12:23:43 -- Llega Coche 82  a la gasolinera
+12:23:43 -- Llega Coche 79  a la gasolinera
+12:23:43 -- Sale Coche 37  surtidor 1
+12:23:43 -- Se va el Coche 37  de la gasolinera
+12:23:43 -- El Operario 3 reposta al Coche 39  en el surtidor 2, tarda en repostar 5 segundos
+12:23:43 -- Entra Coche 46  surtidor 1
+12:23:44 -- El Coche 85  tarda en llegar a la gasolinera 1 segundos
+12:23:45 -- Llega Coche 84  a la gasolinera
+12:23:45 -- El Coche 86  tarda en llegar a la gasolinera 4 segundos
+12:23:46 -- Sale Coche 42  surtidor 7
+12:23:46 -- Se va el Coche 42  de la gasolinera
+12:23:46 -- Entra Coche 48  surtidor 7
+12:23:46 -- El Operario 1 reposta al Coche 40  en el surtidor 8, tarda en repostar 6 segundos
+12:23:46 -- Llega Coche 85  a la gasolinera
+12:23:46 -- El Coche 87  tarda en llegar a la gasolinera 1 segundos
+12:23:47 -- El Coche 88  tarda en llegar a la gasolinera 5 segundos
+12:23:47 -- Llega Coche 87  a la gasolinera
+12:23:48 -- Sale Coche 43  surtidor 6
+12:23:48 -- Se va el Coche 43  de la gasolinera
+12:23:48 -- Entra Coche 50  surtidor 6
+12:23:48 -- El Operario 2 reposta al Coche 44  en el surtidor 4, tarda en repostar 7 segundos
+12:23:48 -- El Coche 89  tarda en llegar a la gasolinera 0 segundos
+12:23:49 -- Sale Coche 39  surtidor 2
+12:23:49 -- Se va el Coche 39  de la gasolinera
+12:23:49 -- Entra Coche 49  surtidor 2
+12:23:49 -- El Operario 3 reposta al Coche 45  en el surtidor 5, tarda en repostar 6 segundos
+12:23:49 -- Llega Coche 89  a la gasolinera
+12:23:49 -- El Coche 90  tarda en llegar a la gasolinera 4 segundos
+12:23:50 -- Llega Coche 86  a la gasolinera
+12:23:50 -- El Coche 91  tarda en llegar a la gasolinera 1 segundos
+12:23:51 -- El Coche 92  tarda en llegar a la gasolinera 5 segundos
+12:23:52 -- Llega Coche 91  a la gasolinera
+12:23:52 -- El Coche 93  tarda en llegar a la gasolinera 4 segundos
+12:23:53 -- Sale Coche 40  surtidor 8
+12:23:53 -- Se va el Coche 40  de la gasolinera
+12:23:53 -- Entra Coche 47  surtidor 8
+12:23:53 -- El Operario 1 reposta al Coche 41  en el surtidor 3, tarda en repostar 4 segundos
+12:23:53 -- Llega Coche 88  a la gasolinera
+12:23:53 -- El Coche 94  tarda en llegar a la gasolinera 1 segundos
+12:23:53 -- Llega Coche 90  a la gasolinera
+12:23:54 -- El Coche 95  tarda en llegar a la gasolinera 5 segundos
+12:23:55 -- Llega Coche 94  a la gasolinera
+12:23:55 -- El Coche 96  tarda en llegar a la gasolinera 1 segundos
+12:23:55 -- Sale Coche 45  surtidor 5
+12:23:55 -- Se va el Coche 45  de la gasolinera
+12:23:55 -- Entra Coche 52  surtidor 5
+12:23:55 -- El Operario 3 reposta al Coche 46  en el surtidor 1, tarda en repostar 7 segundos
+12:23:56 -- Sale Coche 44  surtidor 4
+12:23:56 -- Se va el Coche 44  de la gasolinera
+12:23:56 -- Entra Coche 53  surtidor 4
+12:23:56 -- El Operario 2 reposta al Coche 48  en el surtidor 7, tarda en repostar 4 segundos
+12:23:56 -- El Coche 97  tarda en llegar a la gasolinera 5 segundos
+12:23:57 -- Llega Coche 92  a la gasolinera
+12:23:57 -- Sale Coche 41  surtidor 3
+12:23:57 -- Se va el Coche 41  de la gasolinera
+12:23:57 -- Entra Coche 51  surtidor 3
+12:23:57 -- El Operario 1 reposta al Coche 50  en el surtidor 6, tarda en repostar 7 segundos
+12:23:57 -- Llega Coche 96  a la gasolinera
+12:23:57 -- Llega Coche 93  a la gasolinera
+12:23:57 -- El Coche 98  tarda en llegar a la gasolinera 2 segundos
+12:23:58 -- El Coche 99  tarda en llegar a la gasolinera 5 segundos
+12:23:59 -- El Coche 100  tarda en llegar a la gasolinera 5 segundos
+12:23:59 -- Llega Coche 98  a la gasolinera
+12:24:0 -- Llega Coche 95  a la gasolinera
+12:24:0 -- El Coche 101  tarda en llegar a la gasolinera 1 segundos
+12:24:1 -- Sale Coche 48  surtidor 7
+12:24:1 -- Se va el Coche 48  de la gasolinera
+12:24:1 -- Entra Coche 55  surtidor 7
+12:24:1 -- El Operario 2 reposta al Coche 49  en el surtidor 2, tarda en repostar 5 segundos
+12:24:1 -- El Coche 102  tarda en llegar a la gasolinera 4 segundos
+12:24:1 -- Llega Coche 97  a la gasolinera
+12:24:2 -- Llega Coche 101  a la gasolinera
+12:24:2 -- El Coche 103  tarda en llegar a la gasolinera 5 segundos
+12:24:3 -- Sale Coche 46  surtidor 1
+12:24:3 -- Se va el Coche 46  de la gasolinera
+12:24:3 -- Entra Coche 56  surtidor 1
+12:24:3 -- El Operario 3 reposta al Coche 47  en el surtidor 8, tarda en repostar 6 segundos
+12:24:3 -- El Coche 104  tarda en llegar a la gasolinera 5 segundos
+12:24:4 -- Llega Coche 99  a la gasolinera
+12:24:4 -- Sale Coche 50  surtidor 6
+12:24:4 -- Se va el Coche 50  de la gasolinera
+12:24:4 -- Entra Coche 58  surtidor 6
+12:24:4 -- El Operario 1 reposta al Coche 52  en el surtidor 5, tarda en repostar 7 segundos
+12:24:4 -- El Coche 105  tarda en llegar a la gasolinera 5 segundos
+12:24:4 -- Llega Coche 100  a la gasolinera
+12:24:5 -- El Coche 106  tarda en llegar a la gasolinera 2 segundos
+12:24:6 -- Llega Coche 102  a la gasolinera
+12:24:6 -- Sale Coche 49  surtidor 2
+12:24:6 -- Se va el Coche 49  de la gasolinera
+12:24:6 -- Entra Coche 54  surtidor 2
+12:24:6 -- El Operario 2 reposta al Coche 53  en el surtidor 4, tarda en repostar 7 segundos
+12:24:6 -- El Coche 107  tarda en llegar a la gasolinera 2 segundos
+12:24:7 -- El Coche 108  tarda en llegar a la gasolinera 2 segundos
+12:24:8 -- Llega Coche 106  a la gasolinera
+12:24:8 -- Llega Coche 103  a la gasolinera
+12:24:8 -- El Coche 109  tarda en llegar a la gasolinera 2 segundos
+12:24:8 -- Llega Coche 107  a la gasolinera
+12:24:9 -- Llega Coche 104  a la gasolinera
+12:24:9 -- Sale Coche 47  surtidor 8
+12:24:9 -- Se va el Coche 47  de la gasolinera
+12:24:9 -- El Coche 110  tarda en llegar a la gasolinera 4 segundos
+12:24:9 -- Entra Coche 59  surtidor 8
+12:24:9 -- El Operario 3 reposta al Coche 51  en el surtidor 3, tarda en repostar 7 segundos
+12:24:10 -- Llega Coche 108  a la gasolinera
+12:24:10 -- Llega Coche 105  a la gasolinera
+12:24:10 -- El Coche 111  tarda en llegar a la gasolinera 4 segundos
+12:24:11 -- Llega Coche 109  a la gasolinera
+12:24:11 -- El Coche 112  tarda en llegar a la gasolinera 4 segundos
+12:24:12 -- Sale Coche 52  surtidor 5
+12:24:12 -- Se va el Coche 52  de la gasolinera
+12:24:12 -- El Operario 1 reposta al Coche 55  en el surtidor 7, tarda en repostar 6 segundos
+12:24:12 -- Entra Coche 57  surtidor 5
+12:24:12 -- El Coche 113  tarda en llegar a la gasolinera 2 segundos
+12:24:13 -- El Coche 114  tarda en llegar a la gasolinera 2 segundos
+12:24:14 -- Sale Coche 53  surtidor 4
+12:24:14 -- Se va el Coche 53  de la gasolinera
+12:24:14 -- El Operario 2 reposta al Coche 56  en el surtidor 1, tarda en repostar 4 segundos
+12:24:14 -- Entra Coche 61  surtidor 4
+12:24:14 -- Llega Coche 110  a la gasolinera
+12:24:14 -- El Coche 115  tarda en llegar a la gasolinera 3 segundos
+12:24:15 -- Llega Coche 113  a la gasolinera
+12:24:15 -- Llega Coche 111  a la gasolinera
+12:24:15 -- El Coche 116  tarda en llegar a la gasolinera 3 segundos
+12:24:16 -- Llega Coche 114  a la gasolinera
+12:24:16 -- Llega Coche 112  a la gasolinera
+12:24:16 -- El Coche 117  tarda en llegar a la gasolinera 0 segundos
+12:24:17 -- Llega Coche 117  a la gasolinera
+12:24:17 -- Sale Coche 51  surtidor 3
+12:24:17 -- Se va el Coche 51  de la gasolinera
+12:24:17 -- El Operario 3 reposta al Coche 58  en el surtidor 6, tarda en repostar 4 segundos
+12:24:17 -- Entra Coche 62  surtidor 3
+12:24:17 -- El Coche 118  tarda en llegar a la gasolinera 3 segundos
+12:24:18 -- Sale Coche 56  surtidor 1
+12:24:18 -- Se va el Coche 56  de la gasolinera
+12:24:18 -- Entra Coche 60  surtidor 1
+12:24:18 -- El Operario 2 reposta al Coche 54  en el surtidor 2, tarda en repostar 6 segundos
+12:24:18 -- Llega Coche 115  a la gasolinera
+12:24:18 -- El Coche 119  tarda en llegar a la gasolinera 5 segundos
+12:24:19 -- Sale Coche 55  surtidor 7
+12:24:19 -- Se va el Coche 55  de la gasolinera
+12:24:19 -- Entra Coche 63  surtidor 7
+12:24:19 -- El Operario 1 reposta al Coche 59  en el surtidor 8, tarda en repostar 6 segundos
+12:24:19 -- Llega Coche 116  a la gasolinera
+12:24:19 -- El Coche 120  tarda en llegar a la gasolinera 2 segundos
+12:24:20 -- El Coche 121  tarda en llegar a la gasolinera 5 segundos
+12:24:21 -- Llega Coche 118  a la gasolinera
+12:24:21 -- El Coche 122  tarda en llegar a la gasolinera 4 segundos
+12:24:22 -- Sale Coche 58  surtidor 6
+12:24:22 -- Se va el Coche 58  de la gasolinera
+12:24:22 -- El Operario 3 reposta al Coche 57  en el surtidor 5, tarda en repostar 7 segundos
+12:24:22 -- Entra Coche 64  surtidor 6
+12:24:22 -- Llega Coche 120  a la gasolinera
+12:24:22 -- El Coche 123  tarda en llegar a la gasolinera 3 segundos
+12:24:23 -- El Coche 124  tarda en llegar a la gasolinera 2 segundos
+12:24:24 -- Llega Coche 119  a la gasolinera
+12:24:24 -- El Coche 125  tarda en llegar a la gasolinera 3 segundos
+12:24:24 -- Sale Coche 54  surtidor 2
+12:24:24 -- Se va el Coche 54  de la gasolinera
+12:24:24 -- Entra Coche 65  surtidor 2
+12:24:24 -- El Operario 2 reposta al Coche 61  en el surtidor 4, tarda en repostar 5 segundos
+12:24:25 -- El Coche 126  tarda en llegar a la gasolinera 3 segundos
+12:24:26 -- Llega Coche 124  a la gasolinera
+12:24:26 -- Sale Coche 59  surtidor 8
+12:24:26 -- Se va el Coche 59  de la gasolinera
+12:24:26 -- Entra Coche 66  surtidor 8
+12:24:26 -- El Operario 1 reposta al Coche 62  en el surtidor 3, tarda en repostar 7 segundos
+12:24:26 -- Llega Coche 121  a la gasolinera
+12:24:26 -- Llega Coche 122  a la gasolinera
+12:24:26 -- Llega Coche 123  a la gasolinera
+12:24:26 -- El Coche 127  tarda en llegar a la gasolinera 4 segundos
+12:24:27 -- El Coche 128  tarda en llegar a la gasolinera 5 segundos
+12:24:27 -- Llega Coche 125  a la gasolinera
+12:24:28 -- El Coche 129  tarda en llegar a la gasolinera 5 segundos
+12:24:29 -- Sale Coche 57  surtidor 5
+12:24:29 -- Se va el Coche 57  de la gasolinera
+12:24:29 -- El Operario 3 reposta al Coche 60  en el surtidor 1, tarda en repostar 4 segundos
+12:24:29 -- Entra Coche 67  surtidor 5
+12:24:29 -- Llega Coche 126  a la gasolinera
+12:24:29 -- El Coche 130  tarda en llegar a la gasolinera 3 segundos
+12:24:30 -- Sale Coche 61  surtidor 4
+12:24:30 -- Se va el Coche 61  de la gasolinera
+12:24:30 -- El Operario 2 reposta al Coche 63  en el surtidor 7, tarda en repostar 4 segundos
+12:24:30 -- Entra Coche 69  surtidor 4
+12:24:30 -- El Coche 131  tarda en llegar a la gasolinera 3 segundos
+12:24:31 -- Llega Coche 127  a la gasolinera
+12:24:31 -- El Coche 132  tarda en llegar a la gasolinera 4 segundos
+12:24:32 -- El Coche 133  tarda en llegar a la gasolinera 4 segundos
+12:24:33 -- Llega Coche 130  a la gasolinera
+12:24:33 -- Llega Coche 128  a la gasolinera
+12:24:33 -- Sale Coche 62  surtidor 3
+12:24:33 -- Se va el Coche 62  de la gasolinera
+12:24:33 -- Entra Coche 68  surtidor 3
+12:24:33 -- El Operario 1 reposta al Coche 64  en el surtidor 6, tarda en repostar 4 segundos
+12:24:33 -- El Coche 134  tarda en llegar a la gasolinera 3 segundos
+12:24:34 -- Sale Coche 60  surtidor 1
+12:24:34 -- Se va el Coche 60  de la gasolinera
+12:24:34 -- El Operario 3 reposta al Coche 65  en el surtidor 2, tarda en repostar 4 segundos
+12:24:34 -- Entra Coche 70  surtidor 1
+12:24:34 -- Llega Coche 131  a la gasolinera
+12:24:34 -- Llega Coche 129  a la gasolinera
+12:24:34 -- Sale Coche 63  surtidor 7
+12:24:34 -- Se va el Coche 63  de la gasolinera
+12:24:34 -- Entra Coche 71  surtidor 7
+12:24:34 -- El Operario 2 reposta al Coche 66  en el surtidor 8, tarda en repostar 6 segundos
+12:24:34 -- El Coche 135  tarda en llegar a la gasolinera 2 segundos
+12:24:35 -- El Coche 136  tarda en llegar a la gasolinera 2 segundos
+12:24:36 -- Llega Coche 132  a la gasolinera
+12:24:36 -- El Coche 137  tarda en llegar a la gasolinera 5 segundos
+12:24:37 -- Llega Coche 135  a la gasolinera
+12:24:37 -- Llega Coche 134  a la gasolinera
+12:24:37 -- Llega Coche 133  a la gasolinera
+12:24:37 -- El Coche 138  tarda en llegar a la gasolinera 1 segundos
+12:24:38 -- Llega Coche 136  a la gasolinera
+12:24:38 -- Sale Coche 64  surtidor 6
+12:24:38 -- Se va el Coche 64  de la gasolinera
+12:24:38 -- Entra Coche 74  surtidor 6
+12:24:38 -- El Operario 1 reposta al Coche 67  en el surtidor 5, tarda en repostar 7 segundos
+12:24:38 -- Sale Coche 65  surtidor 2
+12:24:38 -- Se va el Coche 65  de la gasolinera
+12:24:38 -- El Operario 3 reposta al Coche 69  en el surtidor 4, tarda en repostar 7 segundos
+12:24:38 -- Entra Coche 75  surtidor 2
+12:24:38 -- El Coche 139  tarda en llegar a la gasolinera 3 segundos
+12:24:38 -- Llega Coche 138  a la gasolinera
+12:24:39 -- El Coche 140  tarda en llegar a la gasolinera 3 segundos
+12:24:40 -- El Coche 141  tarda en llegar a la gasolinera 5 segundos
+12:24:41 -- Sale Coche 66  surtidor 8
+12:24:41 -- Se va el Coche 66  de la gasolinera
+12:24:41 -- El Operario 2 reposta al Coche 68  en el surtidor 3, tarda en repostar 5 segundos
+12:24:41 -- Entra Coche 73  surtidor 8
+12:24:41 -- El Coche 142  tarda en llegar a la gasolinera 5 segundos
+12:24:42 -- Llega Coche 137  a la gasolinera
+12:24:42 -- Llega Coche 139  a la gasolinera
+12:24:42 -- El Coche 143  tarda en llegar a la gasolinera 2 segundos
+12:24:43 -- Llega Coche 140  a la gasolinera
+12:24:43 -- El Coche 144  tarda en llegar a la gasolinera 2 segundos
+12:24:44 -- El Coche 145  tarda en llegar a la gasolinera 0 segundos
+12:24:44 -- Llega Coche 143  a la gasolinera
+12:24:45 -- Llega Coche 145  a la gasolinera
+12:24:45 -- Sale Coche 67  surtidor 5
+12:24:45 -- Se va el Coche 67  de la gasolinera
+12:24:45 -- Entra Coche 72  surtidor 5
+12:24:45 -- El Operario 1 reposta al Coche 70  en el surtidor 1, tarda en repostar 6 segundos
+12:24:45 -- El Coche 146  tarda en llegar a la gasolinera 1 segundos
+12:24:46 -- Llega Coche 144  a la gasolinera
+12:24:46 -- Sale Coche 69  surtidor 4
+12:24:46 -- Se va el Coche 69  de la gasolinera
+12:24:46 -- Entra Coche 76  surtidor 4
+12:24:46 -- El Operario 3 reposta al Coche 71  en el surtidor 7, tarda en repostar 7 segundos
+12:24:46 -- Llega Coche 141  a la gasolinera
+12:24:46 -- Sale Coche 68  surtidor 3
+12:24:46 -- Se va el Coche 68  de la gasolinera
+12:24:46 -- Entra Coche 77  surtidor 3
+12:24:46 -- El Operario 2 reposta al Coche 74  en el surtidor 6, tarda en repostar 4 segundos
+12:24:46 -- El Coche 147  tarda en llegar a la gasolinera 1 segundos
+12:24:46 -- Llega Coche 146  a la gasolinera
+12:24:47 -- Llega Coche 142  a la gasolinera
+12:24:47 -- El Coche 148  tarda en llegar a la gasolinera 1 segundos
+12:24:48 -- Llega Coche 147  a la gasolinera
+12:24:48 -- El Coche 149  tarda en llegar a la gasolinera 0 segundos
+12:24:48 -- Llega Coche 148  a la gasolinera
+12:24:49 -- Llega Coche 149  a la gasolinera
+12:24:49 -- El Coche 150  tarda en llegar a la gasolinera 2 segundos
+12:24:50 -- El Coche 151  tarda en llegar a la gasolinera 3 segundos
+12:24:51 -- Sale Coche 74  surtidor 6
+12:24:51 -- Se va el Coche 74  de la gasolinera
+12:24:51 -- El Operario 2 reposta al Coche 75  en el surtidor 2, tarda en repostar 5 segundos
+12:24:51 -- Entra Coche 80  surtidor 6
+12:24:51 -- El Coche 152  tarda en llegar a la gasolinera 2 segundos
+12:24:52 -- Sale Coche 70  surtidor 1
+12:24:52 -- Se va el Coche 70  de la gasolinera
+12:24:52 -- Entra Coche 78  surtidor 1
+12:24:52 -- El Operario 1 reposta al Coche 73  en el surtidor 8, tarda en repostar 6 segundos
+12:24:52 -- Llega Coche 150  a la gasolinera
+12:24:52 -- El Coche 153  tarda en llegar a la gasolinera 3 segundos
+12:24:53 -- Sale Coche 71  surtidor 7
+12:24:53 -- Se va el Coche 71  de la gasolinera
+12:24:53 -- Entra Coche 81  surtidor 7
+12:24:53 -- El Operario 3 reposta al Coche 72  en el surtidor 5, tarda en repostar 7 segundos
+12:24:53 -- El Coche 154  tarda en llegar a la gasolinera 2 segundos
+12:24:54 -- Llega Coche 152  a la gasolinera
+12:24:54 -- Llega Coche 151  a la gasolinera
+12:24:54 -- El Coche 155  tarda en llegar a la gasolinera 1 segundos
+12:24:55 -- El Coche 156  tarda en llegar a la gasolinera 3 segundos
+12:24:56 -- Llega Coche 155  a la gasolinera
+12:24:56 -- Llega Coche 153  a la gasolinera
+12:24:56 -- Llega Coche 154  a la gasolinera
+12:24:56 -- Sale Coche 75  surtidor 2
+12:24:56 -- Se va el Coche 75  de la gasolinera
+12:24:56 -- El Operario 2 reposta al Coche 76  en el surtidor 4, tarda en repostar 5 segundos
+12:24:56 -- Entra Coche 83  surtidor 2
+12:24:56 -- El Coche 157  tarda en llegar a la gasolinera 3 segundos
+12:24:57 -- El Coche 158  tarda en llegar a la gasolinera 1 segundos
+12:24:58 -- Sale Coche 73  surtidor 8
+12:24:58 -- Se va el Coche 73  de la gasolinera
+12:24:58 -- Entra Coche 82  surtidor 8
+12:24:58 -- El Operario 1 reposta al Coche 77  en el surtidor 3, tarda en repostar 4 segundos
+12:24:58 -- El Coche 159  tarda en llegar a la gasolinera 5 segundos
+12:24:59 -- Llega Coche 156  a la gasolinera
+12:24:59 -- Llega Coche 158  a la gasolinera
+12:24:59 -- El Coche 160  tarda en llegar a la gasolinera 3 segundos
+12:25:0 -- Llega Coche 157  a la gasolinera
+12:25:0 -- El Coche 161  tarda en llegar a la gasolinera 3 segundos
+12:25:1 -- Sale Coche 72  surtidor 5
+12:25:1 -- Se va el Coche 72  de la gasolinera
+12:25:1 -- El Operario 3 reposta al Coche 80  en el surtidor 6, tarda en repostar 4 segundos
+12:25:1 -- Entra Coche 79  surtidor 5
+12:25:1 -- El Coche 162  tarda en llegar a la gasolinera 3 segundos
+12:25:2 -- Sale Coche 76  surtidor 4
+12:25:2 -- Se va el Coche 76  de la gasolinera
+12:25:2 -- El Operario 2 reposta al Coche 78  en el surtidor 1, tarda en repostar 5 segundos
+12:25:2 -- Entra Coche 84  surtidor 4
+12:25:2 -- El Coche 163  tarda en llegar a la gasolinera 4 segundos
+12:25:3 -- Sale Coche 77  surtidor 3
+12:25:3 -- Se va el Coche 77  de la gasolinera
+12:25:3 -- Entra Coche 85  surtidor 3
+12:25:3 -- El Operario 1 reposta al Coche 81  en el surtidor 7, tarda en repostar 6 segundos
+12:25:3 -- Llega Coche 160  a la gasolinera
+12:25:3 -- El Coche 164  tarda en llegar a la gasolinera 1 segundos
+12:25:4 -- Llega Coche 161  a la gasolinera
+12:25:4 -- Llega Coche 159  a la gasolinera
+12:25:4 -- El Coche 165  tarda en llegar a la gasolinera 3 segundos
+12:25:5 -- Sale Coche 80  surtidor 6
+12:25:5 -- Se va el Coche 80  de la gasolinera
+12:25:5 -- Entra Coche 87  surtidor 6
+12:25:5 -- El Operario 3 reposta al Coche 83  en el surtidor 2, tarda en repostar 4 segundos
+12:25:5 -- Llega Coche 164  a la gasolinera
+12:25:5 -- Llega Coche 162  a la gasolinera
+12:25:5 -- El Coche 166  tarda en llegar a la gasolinera 4 segundos
+12:25:6 -- El Coche 167  tarda en llegar a la gasolinera 4 segundos
+12:25:7 -- Llega Coche 163  a la gasolinera
+12:25:7 -- Sale Coche 78  surtidor 1
+12:25:7 -- Se va el Coche 78  de la gasolinera
+12:25:7 -- Entra Coche 89  surtidor 1
+12:25:7 -- El Operario 2 reposta al Coche 82  en el surtidor 8, tarda en repostar 6 segundos
+12:25:7 -- El Coche 168  tarda en llegar a la gasolinera 4 segundos
+12:25:8 -- Llega Coche 165  a la gasolinera
+12:25:8 -- El Coche 169  tarda en llegar a la gasolinera 1 segundos
+12:25:9 -- El Coche 170  tarda en llegar a la gasolinera 0 segundos
+12:25:9 -- Llega Coche 169  a la gasolinera
+12:25:9 -- Llega Coche 166  a la gasolinera
+12:25:10 -- Sale Coche 81  surtidor 7
+12:25:10 -- Se va el Coche 81  de la gasolinera
+12:25:10 -- Entra Coche 86  surtidor 7
+12:25:10 -- El Operario 1 reposta al Coche 79  en el surtidor 5, tarda en repostar 4 segundos
+12:25:10 -- Sale Coche 83  surtidor 2
+12:25:10 -- Se va el Coche 83  de la gasolinera
+12:25:10 -- Entra Coche 91  surtidor 2
+12:25:10 -- El Operario 3 reposta al Coche 84  en el surtidor 4, tarda en repostar 5 segundos
+12:25:10 -- Llega Coche 170  a la gasolinera
+12:25:10 -- El Coche 171  tarda en llegar a la gasolinera 5 segundos
+12:25:11 -- Llega Coche 167  a la gasolinera
+12:25:11 -- El Coche 172  tarda en llegar a la gasolinera 3 segundos
+12:25:12 -- Llega Coche 168  a la gasolinera
+12:25:12 -- El Coche 173  tarda en llegar a la gasolinera 3 segundos
+12:25:13 -- El Coche 174  tarda en llegar a la gasolinera 2 segundos
+12:25:14 -- Sale Coche 79  surtidor 5
+12:25:14 -- Se va el Coche 79  de la gasolinera
+12:25:14 -- Entra Coche 88  surtidor 5
+12:25:14 -- El Operario 1 reposta al Coche 85  en el surtidor 3, tarda en repostar 7 segundos
+12:25:14 -- Sale Coche 82  surtidor 8
+12:25:14 -- Se va el Coche 82  de la gasolinera
+12:25:14 -- El Operario 2 reposta al Coche 87  en el surtidor 6, tarda en repostar 5 segundos
+12:25:14 -- Entra Coche 90  surtidor 8
+12:25:14 -- El Coche 175  tarda en llegar a la gasolinera 2 segundos
+12:25:15 -- Llega Coche 172  a la gasolinera
+12:25:15 -- El Coche 176  tarda en llegar a la gasolinera 0 segundos
+12:25:15 -- Llega Coche 173  a la gasolinera
+12:25:16 -- Sale Coche 84  surtidor 4
+12:25:16 -- Se va el Coche 84  de la gasolinera
+12:25:16 -- Entra Coche 94  surtidor 4
+12:25:16 -- El Operario 3 reposta al Coche 89  en el surtidor 1, tarda en repostar 4 segundos
+12:25:16 -- Llega Coche 176  a la gasolinera
+12:25:16 -- Llega Coche 171  a la gasolinera
+12:25:16 -- Llega Coche 174  a la gasolinera
+12:25:16 -- El Coche 177  tarda en llegar a la gasolinera 4 segundos
+12:25:17 -- Llega Coche 175  a la gasolinera
+12:25:17 -- PASO CERRADO
+12:25:20 -- Sale Coche 87  surtidor 6
+12:25:21 -- Sale Coche 89  surtidor 1
+12:25:21 -- Sale Coche 85  surtidor 3
+12:26:6 -- PASO ABIERTO
+12:26:6 -- Se va el Coche 87  de la gasolinera
+12:26:6 -- Se va el Coche 89  de la gasolinera
+12:26:6 -- Llega Coche 177  a la gasolinera
+12:26:6 -- Se va el Coche 85  de la gasolinera
+12:26:6 -- El Operario 3 reposta al Coche 91  en el surtidor 2, tarda en repostar 6 segundos
+12:26:6 -- El Operario 2 reposta al Coche 86  en el surtidor 7, tarda en repostar 5 segundos
+12:26:6 -- El Operario 1 reposta al Coche 88  en el surtidor 5, tarda en repostar 6 segundos
+12:26:6 -- Entra Coche 92  surtidor 1
+12:26:6 -- Entra Coche 93  surtidor 3
+12:26:6 -- El Coche 178  tarda en llegar a la gasolinera 5 segundos
+12:26:6 -- Entra Coche 96  surtidor 6
+12:26:7 -- El Coche 179  tarda en llegar a la gasolinera 4 segundos
+12:26:8 -- El Coche 180  tarda en llegar a la gasolinera 5 segundos
+12:26:9 -- El Coche 181  tarda en llegar a la gasolinera 2 segundos
+12:26:10 -- El Coche 182  tarda en llegar a la gasolinera 5 segundos
+12:26:11 -- El Coche 183  tarda en llegar a la gasolinera 5 segundos
+12:26:11 -- Llega Coche 181  a la gasolinera
+12:26:12 -- Llega Coche 178  a la gasolinera
+12:26:12 -- Sale Coche 86  surtidor 7
+12:26:12 -- Se va el Coche 86  de la gasolinera
+12:26:12 -- Entra Coche 98  surtidor 7
+12:26:12 -- El Operario 2 reposta al Coche 90  en el surtidor 8, tarda en repostar 6 segundos
+12:26:12 -- Llega Coche 179  a la gasolinera
+12:26:12 -- El Coche 184  tarda en llegar a la gasolinera 0 segundos
+12:26:13 -- Sale Coche 88  surtidor 5
+12:26:13 -- Se va el Coche 88  de la gasolinera
+12:26:13 -- El Operario 1 reposta al Coche 94  en el surtidor 4, tarda en repostar 5 segundos
+12:26:13 -- Entra Coche 95  surtidor 5
+12:26:13 -- Sale Coche 91  surtidor 2
+12:26:13 -- Se va el Coche 91  de la gasolinera
+12:26:13 -- Entra Coche 97  surtidor 2
+12:26:13 -- El Operario 3 reposta al Coche 92  en el surtidor 1, tarda en repostar 6 segundos
+12:26:13 -- Llega Coche 184  a la gasolinera
+12:26:13 -- El Coche 185  tarda en llegar a la gasolinera 2 segundos
+12:26:14 -- Llega Coche 180  a la gasolinera
+12:26:14 -- El Coche 186  tarda en llegar a la gasolinera 5 segundos
+12:26:15 -- El Coche 187  tarda en llegar a la gasolinera 3 segundos
+12:26:15 -- Llega Coche 185  a la gasolinera
+12:26:16 -- Llega Coche 182  a la gasolinera
+12:26:16 -- El Coche 188  tarda en llegar a la gasolinera 0 segundos
+12:26:17 -- Llega Coche 183  a la gasolinera
+12:26:17 -- Llega Coche 188  a la gasolinera
+12:26:17 -- El Coche 189  tarda en llegar a la gasolinera 4 segundos
+12:26:18 -- Sale Coche 94  surtidor 4
+12:26:18 -- Se va el Coche 94  de la gasolinera
+12:26:18 -- Entra Coche 101  surtidor 4
+12:26:18 -- El Operario 1 reposta al Coche 93  en el surtidor 3, tarda en repostar 5 segundos
+12:26:18 -- El Coche 190  tarda en llegar a la gasolinera 4 segundos
+12:26:18 -- Sale Coche 90  surtidor 8
+12:26:18 -- Se va el Coche 90  de la gasolinera
+12:26:18 -- Entra Coche 99  surtidor 8
+12:26:18 -- El Operario 2 reposta al Coche 96  en el surtidor 6, tarda en repostar 6 segundos
+12:26:19 -- Llega Coche 187  a la gasolinera
+12:26:19 -- El Coche 191  tarda en llegar a la gasolinera 1 segundos
+12:26:19 -- Sale Coche 92  surtidor 1
+12:26:19 -- Se va el Coche 92  de la gasolinera
+12:26:19 -- El Operario 3 reposta al Coche 98  en el surtidor 7, tarda en repostar 7 segundos
+12:26:19 -- Entra Coche 100  surtidor 1
+12:26:20 -- Llega Coche 186  a la gasolinera
+12:26:20 -- El Coche 192  tarda en llegar a la gasolinera 4 segundos
+12:26:21 -- Llega Coche 191  a la gasolinera
+12:26:21 -- El Coche 193  tarda en llegar a la gasolinera 3 segundos
+12:26:21 -- Llega Coche 189  a la gasolinera
+12:26:22 -- El Coche 194  tarda en llegar a la gasolinera 3 segundos
+12:26:23 -- Llega Coche 190  a la gasolinera
+12:26:23 -- El Coche 195  tarda en llegar a la gasolinera 3 segundos
+12:26:23 -- Sale Coche 93  surtidor 3
+12:26:23 -- Se va el Coche 93  de la gasolinera
+12:26:23 -- El Operario 1 reposta al Coche 95  en el surtidor 5, tarda en repostar 5 segundos
+12:26:23 -- Entra Coche 102  surtidor 3
+12:26:24 -- El Coche 196  tarda en llegar a la gasolinera 3 segundos
+12:26:25 -- Sale Coche 96  surtidor 6
+12:26:25 -- Se va el Coche 96  de la gasolinera
+12:26:25 -- Entra Coche 106  surtidor 6
+12:26:25 -- El Operario 2 reposta al Coche 97  en el surtidor 2, tarda en repostar 6 segundos
+12:26:25 -- Llega Coche 193  a la gasolinera
+12:26:25 -- Llega Coche 192  a la gasolinera
+12:26:25 -- El Coche 197  tarda en llegar a la gasolinera 4 segundos
+12:26:26 -- Llega Coche 194  a la gasolinera
+12:26:26 -- El Coche 198  tarda en llegar a la gasolinera 1 segundos
+12:26:26 -- Llega Coche 195  a la gasolinera
+12:26:27 -- Sale Coche 98  surtidor 7
+12:26:27 -- Se va el Coche 98  de la gasolinera
+12:26:27 -- El Coche 199  tarda en llegar a la gasolinera 3 segundos
+12:26:27 -- El Operario 3 reposta al Coche 101  en el surtidor 4, tarda en repostar 5 segundos
+12:26:27 -- Entra Coche 103  surtidor 7
+12:26:28 -- Llega Coche 198  a la gasolinera
+12:26:28 -- Llega Coche 196  a la gasolinera
+12:26:28 -- El Coche 200  tarda en llegar a la gasolinera 1 segundos
+12:26:28 -- Sale Coche 95  surtidor 5
+12:26:28 -- Se va el Coche 95  de la gasolinera
+12:26:28 -- Entra Coche 107  surtidor 5
+12:26:28 -- El Operario 1 reposta al Coche 99  en el surtidor 8, tarda en repostar 5 segundos
+12:26:30 -- Llega Coche 197  a la gasolinera
+12:26:30 -- Llega Coche 200  a la gasolinera
+12:26:30 -- Llega Coche 199  a la gasolinera
+12:26:31 -- Sale Coche 97  surtidor 2
+12:26:31 -- Se va el Coche 97  de la gasolinera
+12:26:31 -- El Operario 2 reposta al Coche 100  en el surtidor 1, tarda en repostar 7 segundos
+12:26:31 -- Entra Coche 104  surtidor 2
+12:26:32 -- Sale Coche 101  surtidor 4
+12:26:32 -- Se va el Coche 101  de la gasolinera
+12:26:32 -- Entra Coche 108  surtidor 4
+12:26:32 -- El Operario 3 reposta al Coche 102  en el surtidor 3, tarda en repostar 6 segundos
+12:26:33 -- Sale Coche 99  surtidor 8
+12:26:33 -- Se va el Coche 99  de la gasolinera
+12:26:33 -- Entra Coche 105  surtidor 8
+12:26:33 -- El Operario 1 reposta al Coche 106  en el surtidor 6, tarda en repostar 5 segundos
+12:26:39 -- Sale Coche 100  surtidor 1
+12:26:39 -- Se va el Coche 100  de la gasolinera
+12:26:39 -- El Operario 2 reposta al Coche 103  en el surtidor 7, tarda en repostar 6 segundos
+12:26:39 -- Entra Coche 109  surtidor 1
+12:26:39 -- Sale Coche 102  surtidor 3
+12:26:39 -- Se va el Coche 102  de la gasolinera
+12:26:39 -- El Operario 3 reposta al Coche 107  en el surtidor 5, tarda en repostar 7 segundos
+12:26:39 -- Entra Coche 110  surtidor 3
+12:26:39 -- Sale Coche 106  surtidor 6
+12:26:39 -- Se va el Coche 106  de la gasolinera
+12:26:39 -- El Operario 1 reposta al Coche 104  en el surtidor 2, tarda en repostar 7 segundos
+12:26:39 -- Entra Coche 113  surtidor 6
+12:26:45 -- Sale Coche 103  surtidor 7
+12:26:45 -- Se va el Coche 103  de la gasolinera
+12:26:45 -- El Operario 2 reposta al Coche 108  en el surtidor 4, tarda en repostar 7 segundos
+12:26:45 -- Entra Coche 111  surtidor 7
+12:26:46 -- Sale Coche 107  surtidor 5
+12:26:46 -- Se va el Coche 107  de la gasolinera
+12:26:46 -- Entra Coche 114  surtidor 5
+12:26:46 -- El Operario 3 reposta al Coche 105  en el surtidor 8, tarda en repostar 6 segundos
+12:26:47 -- Sale Coche 104  surtidor 2
+12:26:47 -- Se va el Coche 104  de la gasolinera
+12:26:47 -- El Operario 1 reposta al Coche 109  en el surtidor 1, tarda en repostar 6 segundos
+12:26:47 -- Entra Coche 112  surtidor 2
+12:26:52 -- Sale Coche 108  surtidor 4
+12:26:52 -- Se va el Coche 108  de la gasolinera
+12:26:52 -- El Operario 2 reposta al Coche 110  en el surtidor 3, tarda en repostar 7 segundos
+12:26:52 -- Entra Coche 117  surtidor 4
+12:26:52 -- Sale Coche 105  surtidor 8
+12:26:52 -- Se va el Coche 105  de la gasolinera
+12:26:52 -- Entra Coche 115  surtidor 8
+12:26:52 -- El Operario 3 reposta al Coche 113  en el surtidor 6, tarda en repostar 6 segundos
+12:26:53 -- Sale Coche 109  surtidor 1
+12:26:53 -- Se va el Coche 109  de la gasolinera
+12:26:53 -- Entra Coche 116  surtidor 1
+12:26:53 -- El Operario 1 reposta al Coche 111  en el surtidor 7, tarda en repostar 4 segundos
+12:26:58 -- Sale Coche 111  surtidor 7
+12:26:58 -- Se va el Coche 111  de la gasolinera
+12:26:58 -- Entra Coche 118  surtidor 7
+12:26:58 -- El Operario 1 reposta al Coche 114  en el surtidor 5, tarda en repostar 5 segundos
+12:26:59 -- Sale Coche 113  surtidor 6
+12:26:59 -- Se va el Coche 113  de la gasolinera
+12:26:59 -- Entra Coche 120  surtidor 6
+12:26:59 -- El Operario 3 reposta al Coche 112  en el surtidor 2, tarda en repostar 7 segundos
+12:27:0 -- Sale Coche 110  surtidor 3
+12:27:0 -- Se va el Coche 110  de la gasolinera
+12:27:0 -- El Operario 2 reposta al Coche 117  en el surtidor 4, tarda en repostar 6 segundos
+12:27:0 -- Entra Coche 119  surtidor 3
+12:27:4 -- Sale Coche 114  surtidor 5
+12:27:4 -- Se va el Coche 114  de la gasolinera
+12:27:4 -- Entra Coche 124  surtidor 5
+12:27:4 -- El Operario 1 reposta al Coche 115  en el surtidor 8, tarda en repostar 5 segundos
+12:27:7 -- Sale Coche 112  surtidor 2
+12:27:7 -- Se va el Coche 112  de la gasolinera
+12:27:7 -- Entra Coche 121  surtidor 2
+12:27:7 -- El Operario 3 reposta al Coche 116  en el surtidor 1, tarda en repostar 4 segundos
+12:27:7 -- Sale Coche 117  surtidor 4
+12:27:7 -- Se va el Coche 117  de la gasolinera
+12:27:7 -- El Operario 2 reposta al Coche 118  en el surtidor 7, tarda en repostar 7 segundos
+12:27:7 -- Entra Coche 122  surtidor 4
+12:27:9 -- Sale Coche 115  surtidor 8
+12:27:9 -- Se va el Coche 115  de la gasolinera
+12:27:9 -- Entra Coche 123  surtidor 8
+12:27:9 -- El Operario 1 reposta al Coche 120  en el surtidor 6, tarda en repostar 6 segundos
+12:27:11 -- Sale Coche 116  surtidor 1
+12:27:11 -- Se va el Coche 116  de la gasolinera
+12:27:11 -- Entra Coche 125  surtidor 1
+12:27:11 -- El Operario 3 reposta al Coche 119  en el surtidor 3, tarda en repostar 6 segundos
+12:27:14 -- Sale Coche 118  surtidor 7
+12:27:14 -- Se va el Coche 118  de la gasolinera
+12:27:14 -- El Operario 2 reposta al Coche 124  en el surtidor 5, tarda en repostar 5 segundos
+12:27:14 -- Entra Coche 126  surtidor 7
+12:27:15 -- Sale Coche 120  surtidor 6
+12:27:15 -- Se va el Coche 120  de la gasolinera
+12:27:15 -- Entra Coche 127  surtidor 6
+12:27:15 -- El Operario 1 reposta al Coche 121  en el surtidor 2, tarda en repostar 7 segundos
+12:27:17 -- Sale Coche 119  surtidor 3
+12:27:17 -- Se va el Coche 119  de la gasolinera
+12:27:17 -- Entra Coche 130  surtidor 3
+12:27:17 -- El Operario 3 reposta al Coche 122  en el surtidor 4, tarda en repostar 5 segundos
+12:27:20 -- Sale Coche 124  surtidor 5
+12:27:20 -- Se va el Coche 124  de la gasolinera
+12:27:20 -- Entra Coche 128  surtidor 5
+12:27:20 -- El Operario 2 reposta al Coche 123  en el surtidor 8, tarda en repostar 5 segundos
+12:27:23 -- Sale Coche 121  surtidor 2
+12:27:23 -- Se va el Coche 121  de la gasolinera
+12:27:23 -- Entra Coche 131  surtidor 2
+12:27:23 -- El Operario 1 reposta al Coche 125  en el surtidor 1, tarda en repostar 5 segundos
+12:27:23 -- Sale Coche 122  surtidor 4
+12:27:23 -- Se va el Coche 122  de la gasolinera
+12:27:23 -- El Operario 3 reposta al Coche 126  en el surtidor 7, tarda en repostar 7 segundos
+12:27:23 -- Entra Coche 129  surtidor 4
+12:27:26 -- Sale Coche 123  surtidor 8
+12:27:26 -- Se va el Coche 123  de la gasolinera
+12:27:26 -- El Operario 2 reposta al Coche 127  en el surtidor 6, tarda en repostar 6 segundos
+12:27:26 -- Entra Coche 132  surtidor 8
+12:27:28 -- Sale Coche 125  surtidor 1
+12:27:28 -- Se va el Coche 125  de la gasolinera
+12:27:28 -- Entra Coche 135  surtidor 1
+12:27:28 -- El Operario 1 reposta al Coche 130  en el surtidor 3, tarda en repostar 4 segundos
+12:27:30 -- Sale Coche 126  surtidor 7
+12:27:30 -- Se va el Coche 126  de la gasolinera
+12:27:30 -- Entra Coche 134  surtidor 7
+12:27:30 -- El Operario 3 reposta al Coche 128  en el surtidor 5, tarda en repostar 7 segundos
+12:27:32 -- Sale Coche 127  surtidor 6
+12:27:32 -- Se va el Coche 127  de la gasolinera
+12:27:32 -- El Operario 2 reposta al Coche 131  en el surtidor 2, tarda en repostar 4 segundos
+12:27:32 -- Entra Coche 133  surtidor 6
+12:27:32 -- Sale Coche 130  surtidor 3
+12:27:32 -- Se va el Coche 130  de la gasolinera
+12:27:32 -- Entra Coche 136  surtidor 3
+12:27:32 -- El Operario 1 reposta al Coche 129  en el surtidor 4, tarda en repostar 7 segundos
+12:27:37 -- Sale Coche 131  surtidor 2
+12:27:37 -- Se va el Coche 131  de la gasolinera
+12:27:37 -- El Operario 2 reposta al Coche 132  en el surtidor 8, tarda en repostar 6 segundos
+12:27:37 -- Entra Coche 138  surtidor 2
+12:27:38 -- Sale Coche 128  surtidor 5
+12:27:38 -- Se va el Coche 128  de la gasolinera
+12:27:38 -- El Operario 3 reposta al Coche 135  en el surtidor 1, tarda en repostar 7 segundos
+12:27:38 -- Entra Coche 137  surtidor 5
+12:27:40 -- Sale Coche 129  surtidor 4
+12:27:40 -- Se va el Coche 129  de la gasolinera
+12:27:40 -- Entra Coche 139  surtidor 4
+12:27:40 -- El Operario 1 reposta al Coche 134  en el surtidor 7, tarda en repostar 4 segundos
+12:27:44 -- Sale Coche 132  surtidor 8
+12:27:44 -- Se va el Coche 132  de la gasolinera
+12:27:44 -- El Operario 2 reposta al Coche 133  en el surtidor 6, tarda en repostar 5 segundos
+12:27:44 -- Entra Coche 140  surtidor 8
+12:27:45 -- Sale Coche 135  surtidor 1
+12:27:45 -- Se va el Coche 135  de la gasolinera
+12:27:45 -- Entra Coche 143  surtidor 1
+12:27:45 -- El Operario 3 reposta al Coche 136  en el surtidor 3, tarda en repostar 4 segundos
+12:27:45 -- Sale Coche 134  surtidor 7
+12:27:45 -- Se va el Coche 134  de la gasolinera
+12:27:45 -- Entra Coche 145  surtidor 7
+12:27:45 -- El Operario 1 reposta al Coche 138  en el surtidor 2, tarda en repostar 4 segundos
+12:27:49 -- Sale Coche 133  surtidor 6
+12:27:49 -- Se va el Coche 133  de la gasolinera
+12:27:49 -- Entra Coche 144  surtidor 6
+12:27:49 -- El Operario 2 reposta al Coche 137  en el surtidor 5, tarda en repostar 5 segundos
+12:27:50 -- Sale Coche 136  surtidor 3
+12:27:50 -- Se va el Coche 136  de la gasolinera
+12:27:50 -- Entra Coche 141  surtidor 3
+12:27:50 -- El Operario 3 reposta al Coche 139  en el surtidor 4, tarda en repostar 7 segundos
+12:27:50 -- Sale Coche 138  surtidor 2
+12:27:50 -- Se va el Coche 138  de la gasolinera
+12:27:50 -- Entra Coche 146  surtidor 2
+12:27:50 -- El Operario 1 reposta al Coche 140  en el surtidor 8, tarda en repostar 7 segundos
+12:27:55 -- Sale Coche 137  surtidor 5
+12:27:55 -- Se va el Coche 137  de la gasolinera
+12:27:55 -- Entra Coche 142  surtidor 5
+12:27:55 -- El Operario 2 reposta al Coche 143  en el surtidor 1, tarda en repostar 5 segundos
+12:27:57 -- Sale Coche 139  surtidor 4
+12:27:57 -- Se va el Coche 139  de la gasolinera
+12:27:57 -- Entra Coche 147  surtidor 4
+12:27:57 -- El Operario 3 reposta al Coche 145  en el surtidor 7, tarda en repostar 6 segundos
+12:27:58 -- Sale Coche 140  surtidor 8
+12:27:58 -- Se va el Coche 140  de la gasolinera
+12:27:58 -- Entra Coche 148  surtidor 8
+12:27:58 -- El Operario 1 reposta al Coche 144  en el surtidor 6, tarda en repostar 6 segundos
+12:28:1 -- Sale Coche 143  surtidor 1
+12:28:1 -- Se va el Coche 143  de la gasolinera
+12:28:1 -- Entra Coche 149  surtidor 1
+12:28:1 -- El Operario 2 reposta al Coche 141  en el surtidor 3, tarda en repostar 7 segundos
+12:28:3 -- Sale Coche 145  surtidor 7
+12:28:3 -- Se va el Coche 145  de la gasolinera
+12:28:3 -- Entra Coche 150  surtidor 7
+12:28:3 -- El Operario 3 reposta al Coche 146  en el surtidor 2, tarda en repostar 5 segundos
+12:28:4 -- Sale Coche 144  surtidor 6
+12:28:4 -- Se va el Coche 144  de la gasolinera
+12:28:4 -- Entra Coche 152  surtidor 6
+12:28:4 -- El Operario 1 reposta al Coche 142  en el surtidor 5, tarda en repostar 6 segundos
+12:28:8 -- Sale Coche 141  surtidor 3
+12:28:8 -- Se va el Coche 141  de la gasolinera
+12:28:8 -- Entra Coche 151  surtidor 3
+12:28:8 -- El Operario 2 reposta al Coche 147  en el surtidor 4, tarda en repostar 5 segundos
+12:28:9 -- Sale Coche 146  surtidor 2
+12:28:9 -- Se va el Coche 146  de la gasolinera
+12:28:9 -- Entra Coche 155  surtidor 2
+12:28:9 -- El Operario 3 reposta al Coche 148  en el surtidor 8, tarda en repostar 5 segundos
+12:28:10 -- Sale Coche 142  surtidor 5
+12:28:10 -- Se va el Coche 142  de la gasolinera
+12:28:10 -- Entra Coche 153  surtidor 5
+12:28:10 -- El Operario 1 reposta al Coche 149  en el surtidor 1, tarda en repostar 7 segundos
+12:28:14 -- Sale Coche 147  surtidor 4
+12:28:14 -- Se va el Coche 147  de la gasolinera
+12:28:14 -- Entra Coche 154  surtidor 4
+12:28:14 -- El Operario 2 reposta al Coche 150  en el surtidor 7, tarda en repostar 6 segundos
+12:28:15 -- Sale Coche 148  surtidor 8
+12:28:15 -- Se va el Coche 148  de la gasolinera
+12:28:15 -- Entra Coche 156  surtidor 8
+12:28:15 -- El Operario 3 reposta al Coche 152  en el surtidor 6, tarda en repostar 7 segundos
+12:28:17 -- Sale Coche 149  surtidor 1
+12:28:17 -- Se va el Coche 149  de la gasolinera
+12:28:17 -- Entra Coche 158  surtidor 1
+12:28:17 -- El Operario 1 reposta al Coche 151  en el surtidor 3, tarda en repostar 4 segundos
+12:28:20 -- Sale Coche 150  surtidor 7
+12:28:20 -- Se va el Coche 150  de la gasolinera
+12:28:20 -- Entra Coche 157  surtidor 7
+12:28:20 -- El Operario 2 reposta al Coche 155  en el surtidor 2, tarda en repostar 7 segundos
+12:28:22 -- Sale Coche 151  surtidor 3
+12:28:22 -- Se va el Coche 151  de la gasolinera
+12:28:22 -- Entra Coche 160  surtidor 3
+12:28:22 -- El Operario 1 reposta al Coche 153  en el surtidor 5, tarda en repostar 6 segundos
+12:28:23 -- Sale Coche 152  surtidor 6
+12:28:23 -- Se va el Coche 152  de la gasolinera
+12:28:23 -- Entra Coche 161  surtidor 6
+12:28:23 -- El Operario 3 reposta al Coche 154  en el surtidor 4, tarda en repostar 7 segundos
+12:28:28 -- Sale Coche 155  surtidor 2
+12:28:28 -- Se va el Coche 155  de la gasolinera
+12:28:28 -- El Operario 2 reposta al Coche 156  en el surtidor 8, tarda en repostar 6 segundos
+12:28:28 -- Entra Coche 159  surtidor 2
+12:28:28 -- Sale Coche 153  surtidor 5
+12:28:28 -- Se va el Coche 153  de la gasolinera
+12:28:28 -- Entra Coche 164  surtidor 5
+12:28:28 -- El Operario 1 reposta al Coche 158  en el surtidor 1, tarda en repostar 5 segundos
+12:28:30 -- Sale Coche 154  surtidor 4
+12:28:30 -- Se va el Coche 154  de la gasolinera
+12:28:30 -- Entra Coche 162  surtidor 4
+12:28:30 -- El Operario 3 reposta al Coche 157  en el surtidor 7, tarda en repostar 7 segundos
+12:28:33 -- Sale Coche 158  surtidor 1
+12:28:33 -- Se va el Coche 158  de la gasolinera
+12:28:33 -- Entra Coche 163  surtidor 1
+12:28:33 -- El Operario 1 reposta al Coche 160  en el surtidor 3, tarda en repostar 7 segundos
+12:28:34 -- Sale Coche 156  surtidor 8
+12:28:34 -- Se va el Coche 156  de la gasolinera
+12:28:34 -- Entra Coche 165  surtidor 8
+12:28:34 -- El Operario 2 reposta al Coche 161  en el surtidor 6, tarda en repostar 7 segundos
+12:28:37 -- Sale Coche 157  surtidor 7
+12:28:37 -- Se va el Coche 157  de la gasolinera
+12:28:37 -- Entra Coche 169  surtidor 7
+12:28:37 -- El Operario 3 reposta al Coche 159  en el surtidor 2, tarda en repostar 7 segundos
+12:28:41 -- Sale Coche 160  surtidor 3
+12:28:41 -- Se va el Coche 160  de la gasolinera
+12:28:41 -- Entra Coche 166  surtidor 3
+12:28:41 -- El Operario 1 reposta al Coche 164  en el surtidor 5, tarda en repostar 7 segundos
+12:28:41 -- Sale Coche 161  surtidor 6
+12:28:41 -- Se va el Coche 161  de la gasolinera
+12:28:41 -- El Operario 2 reposta al Coche 162  en el surtidor 4, tarda en repostar 7 segundos
+12:28:41 -- Entra Coche 170  surtidor 6
+12:28:45 -- Sale Coche 159  surtidor 2
+12:28:45 -- Se va el Coche 159  de la gasolinera
+12:28:45 -- Entra Coche 167  surtidor 2
+12:28:45 -- El Operario 3 reposta al Coche 163  en el surtidor 1, tarda en repostar 7 segundos
+12:28:49 -- Sale Coche 164  surtidor 5
+12:28:49 -- Se va el Coche 164  de la gasolinera
+12:28:49 -- Entra Coche 168  surtidor 5
+12:28:49 -- El Operario 1 reposta al Coche 165  en el surtidor 8, tarda en repostar 7 segundos
+12:28:49 -- Sale Coche 162  surtidor 4
+12:28:49 -- Se va el Coche 162  de la gasolinera
+12:28:49 -- Entra Coche 172  surtidor 4
+12:28:49 -- El Operario 2 reposta al Coche 169  en el surtidor 7, tarda en repostar 7 segundos
+12:28:52 -- Sale Coche 163  surtidor 1
+12:28:52 -- Se va el Coche 163  de la gasolinera
+12:28:52 -- Entra Coche 173  surtidor 1
+12:28:52 -- El Operario 3 reposta al Coche 166  en el surtidor 3, tarda en repostar 5 segundos
+12:28:57 -- Sale Coche 165  surtidor 8
+12:28:57 -- Se va el Coche 165  de la gasolinera
+12:28:57 -- Entra Coche 176  surtidor 8
+12:28:57 -- El Operario 1 reposta al Coche 170  en el surtidor 6, tarda en repostar 4 segundos
+12:28:57 -- Sale Coche 169  surtidor 7
+12:28:57 -- Se va el Coche 169  de la gasolinera
+12:28:57 -- Entra Coche 171  surtidor 7
+12:28:57 -- El Operario 2 reposta al Coche 167  en el surtidor 2, tarda en repostar 4 segundos
+12:28:58 -- Sale Coche 166  surtidor 3
+12:28:58 -- Se va el Coche 166  de la gasolinera
+12:28:58 -- Entra Coche 174  surtidor 3
+12:28:58 -- El Operario 3 reposta al Coche 168  en el surtidor 5, tarda en repostar 7 segundos
+12:29:1 -- Sale Coche 170  surtidor 6
+12:29:1 -- Se va el Coche 170  de la gasolinera
+12:29:1 -- Entra Coche 175  surtidor 6
+12:29:1 -- El Operario 1 reposta al Coche 172  en el surtidor 4, tarda en repostar 7 segundos
+12:29:1 -- Sale Coche 167  surtidor 2
+12:29:1 -- Se va el Coche 167  de la gasolinera
+12:29:1 -- Entra Coche 177  surtidor 2
+12:29:1 -- El Operario 2 reposta al Coche 173  en el surtidor 1, tarda en repostar 6 segundos
+12:29:6 -- Sale Coche 168  surtidor 5
+12:29:6 -- Se va el Coche 168  de la gasolinera
+12:29:6 -- Entra Coche 181  surtidor 5
+12:29:6 -- El Operario 3 reposta al Coche 176  en el surtidor 8, tarda en repostar 4 segundos
+12:29:8 -- Sale Coche 172  surtidor 4
+12:29:8 -- Se va el Coche 172  de la gasolinera
+12:29:8 -- Entra Coche 178  surtidor 4
+12:29:8 -- El Operario 1 reposta al Coche 171  en el surtidor 7, tarda en repostar 7 segundos
+12:29:8 -- Sale Coche 173  surtidor 1
+12:29:8 -- Se va el Coche 173  de la gasolinera
+12:29:8 -- Entra Coche 179  surtidor 1
+12:29:8 -- El Operario 2 reposta al Coche 174  en el surtidor 3, tarda en repostar 7 segundos
+12:29:10 -- Sale Coche 176  surtidor 8
+12:29:10 -- Se va el Coche 176  de la gasolinera
+12:29:10 -- Entra Coche 184  surtidor 8
+12:29:10 -- El Operario 3 reposta al Coche 175  en el surtidor 6, tarda en repostar 5 segundos
+12:29:15 -- Sale Coche 175  surtidor 6
+12:29:15 -- Se va el Coche 175  de la gasolinera
+12:29:15 -- Entra Coche 180  surtidor 6
+12:29:15 -- El Operario 3 reposta al Coche 177  en el surtidor 2, tarda en repostar 7 segundos
+12:29:15 -- Sale Coche 171  surtidor 7
+12:29:15 -- Se va el Coche 171  de la gasolinera
+12:29:15 -- Entra Coche 185  surtidor 7
+12:29:15 -- El Operario 1 reposta al Coche 181  en el surtidor 5, tarda en repostar 5 segundos
+12:29:16 -- Sale Coche 174  surtidor 3
+12:29:16 -- Se va el Coche 174  de la gasolinera
+12:29:16 -- Entra Coche 182  surtidor 3
+12:29:16 -- El Operario 2 reposta al Coche 178  en el surtidor 4, tarda en repostar 4 segundos
+12:29:20 -- Sale Coche 178  surtidor 4
+12:29:20 -- Se va el Coche 178  de la gasolinera
+12:29:20 -- Entra Coche 183  surtidor 4
+12:29:20 -- El Operario 2 reposta al Coche 179  en el surtidor 1, tarda en repostar 5 segundos
+12:29:21 -- Sale Coche 181  surtidor 5
+12:29:21 -- Se va el Coche 181  de la gasolinera
+12:29:21 -- Entra Coche 188  surtidor 5
+12:29:21 -- El Operario 1 reposta al Coche 184  en el surtidor 8, tarda en repostar 4 segundos
+12:29:23 -- Sale Coche 177  surtidor 2
+12:29:23 -- Se va el Coche 177  de la gasolinera
+12:29:23 -- Entra Coche 187  surtidor 2
+12:29:23 -- El Operario 3 reposta al Coche 180  en el surtidor 6, tarda en repostar 5 segundos
+12:29:26 -- Sale Coche 184  surtidor 8
+12:29:26 -- Se va el Coche 184  de la gasolinera
+12:29:26 -- Entra Coche 186  surtidor 8
+12:29:26 -- El Operario 1 reposta al Coche 185  en el surtidor 7, tarda en repostar 7 segundos
+12:29:26 -- Sale Coche 179  surtidor 1
+12:29:26 -- Se va el Coche 179  de la gasolinera
+12:29:26 -- Entra Coche 191  surtidor 1
+12:29:26 -- El Operario 2 reposta al Coche 182  en el surtidor 3, tarda en repostar 5 segundos
+12:29:29 -- Sale Coche 180  surtidor 6
+12:29:29 -- Se va el Coche 180  de la gasolinera
+12:29:29 -- Entra Coche 189  surtidor 6
+12:29:29 -- El Operario 3 reposta al Coche 183  en el surtidor 4, tarda en repostar 7 segundos
+12:29:31 -- Sale Coche 182  surtidor 3
+12:29:31 -- Se va el Coche 182  de la gasolinera
+12:29:31 -- Entra Coche 190  surtidor 3
+12:29:31 -- El Operario 2 reposta al Coche 188  en el surtidor 5, tarda en repostar 4 segundos
+12:29:33 -- Sale Coche 185  surtidor 7
+12:29:33 -- Se va el Coche 185  de la gasolinera
+12:29:33 -- Entra Coche 193  surtidor 7
+12:29:33 -- El Operario 1 reposta al Coche 187  en el surtidor 2, tarda en repostar 7 segundos
+12:29:36 -- Sale Coche 188  surtidor 5
+12:29:36 -- Se va el Coche 188  de la gasolinera
+12:29:36 -- Entra Coche 192  surtidor 5
+12:29:36 -- El Operario 2 reposta al Coche 186  en el surtidor 8, tarda en repostar 5 segundos
+12:29:36 -- Sale Coche 183  surtidor 4
+12:29:36 -- Se va el Coche 183  de la gasolinera
+12:29:36 -- Entra Coche 194  surtidor 4
+12:29:36 -- El Operario 3 reposta al Coche 191  en el surtidor 1, tarda en repostar 4 segundos
+12:29:40 -- Sale Coche 187  surtidor 2
+12:29:40 -- Se va el Coche 187  de la gasolinera
+12:29:40 -- Entra Coche 195  surtidor 2
+12:29:40 -- El Operario 1 reposta al Coche 189  en el surtidor 6, tarda en repostar 4 segundos
+12:29:41 -- Sale Coche 191  surtidor 1
+12:29:41 -- Se va el Coche 191  de la gasolinera
+12:29:41 -- Entra Coche 198  surtidor 1
+12:29:41 -- El Operario 3 reposta al Coche 190  en el surtidor 3, tarda en repostar 5 segundos
+12:29:41 -- Sale Coche 186  surtidor 8
+12:29:41 -- Se va el Coche 186  de la gasolinera
+12:29:41 -- Entra Coche 196  surtidor 8
+12:29:41 -- El Operario 2 reposta al Coche 193  en el surtidor 7, tarda en repostar 6 segundos
+12:29:45 -- Sale Coche 189  surtidor 6
+12:29:45 -- Se va el Coche 189  de la gasolinera
+12:29:45 -- Entra Coche 197  surtidor 6
+12:29:45 -- El Operario 1 reposta al Coche 192  en el surtidor 5, tarda en repostar 7 segundos
+12:29:46 -- Sale Coche 190  surtidor 3
+12:29:46 -- Se va el Coche 190  de la gasolinera
+12:29:46 -- Entra Coche 200  surtidor 3
+12:29:46 -- El Operario 3 reposta al Coche 194  en el surtidor 4, tarda en repostar 5 segundos
+12:29:48 -- Sale Coche 193  surtidor 7
+12:29:48 -- Se va el Coche 193  de la gasolinera
+12:29:48 -- Entra Coche 199  surtidor 7
+12:29:48 -- El Operario 2 reposta al Coche 195  en el surtidor 2, tarda en repostar 5 segundos
+12:29:52 -- Sale Coche 194  surtidor 4
+12:29:52 -- Se va el Coche 194  de la gasolinera
+12:29:52 -- El Operario 3 reposta al Coche 198  en el surtidor 1, tarda en repostar 4 segundos
+12:29:53 -- Sale Coche 192  surtidor 5
+12:29:53 -- Se va el Coche 192  de la gasolinera
+12:29:53 -- El Operario 1 reposta al Coche 196  en el surtidor 8, tarda en repostar 6 segundos
+12:29:54 -- Sale Coche 195  surtidor 2
+12:29:54 -- Se va el Coche 195  de la gasolinera
+12:29:54 -- El Operario 2 reposta al Coche 197  en el surtidor 6, tarda en repostar 6 segundos
+12:29:57 -- Sale Coche 198  surtidor 1
+12:29:57 -- Se va el Coche 198  de la gasolinera
+12:29:57 -- El Operario 3 reposta al Coche 200  en el surtidor 3, tarda en repostar 7 segundos
+12:29:59 -- Sale Coche 196  surtidor 8
+12:29:59 -- Se va el Coche 196  de la gasolinera
+12:29:59 -- El Operario 1 reposta al Coche 199  en el surtidor 7, tarda en repostar 5 segundos
+12:30:0 -- Sale Coche 197  surtidor 6
+12:30:0 -- Se va el Coche 197  de la gasolinera
+12:30:4 -- Sale Coche 200  surtidor 3
+12:30:4 -- Se va el Coche 200  de la gasolinera
+12:30:5 -- Sale Coche 199  surtidor 7
+12:30:5 -- Se va el Coche 199  de la gasolinera
+
+-- FIN SUMULACION GASOLINERA --
